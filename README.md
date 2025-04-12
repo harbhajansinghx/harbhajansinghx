@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @harbhajansinghx  
+# 👋 Hi, I’m @BHAJANLAL BISHNOI
 
 ## 👀 Interests  
 I am passionate about **Artificial Intelligence, Data Science, Quantum Computing, Philosophy, and Filmmaking**. My work explores the intersection of **technology, literature, and public policy**, aiming to build innovative solutions that address real-world challenges.  
